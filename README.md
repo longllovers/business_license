@@ -37,7 +37,8 @@ python app.py
 当前项目已经实现了大部分商业执照的识别功能，但由于 OCR 识别的局限性和水印等干扰，仍然存在一定的问题。如果你有意进行改进，可以先查看现有代码，然后尝试根据需求进一步完善功能。
 
 ### 6. 效果
-![效果] (https://github.com/longllovers/business_license/blob/main/image.png)
+
+![效果](https://raw.githubusercontent.com/longllovers/business_license/main/image.png)
 
 ---
 
