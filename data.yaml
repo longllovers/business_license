@@ -1,0 +1,16 @@
+path: /home/ialover/document/yingyezhizhao/ultralytics/data # dataset root dir
+train: images/train # train images (relative to 'path') 4 images
+val: images/val # val images (relative to 'path') 4 images
+test: # test images (optional)
+nc: 9
+# Classes
+names:
+  0: 统一社会信用代码
+  1: 公司名称
+  2: 注册资本
+  3: 法定代表人
+  4: 地址
+  5: 经营范围
+  6: 营业期限
+  7: 成立日期
+  8: 主体类型

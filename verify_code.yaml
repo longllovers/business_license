@@ -1,0 +1,8 @@
+path: /home/ialover/document/yingyezhizhao/ultralytics/ultralytics/mydata/mytestverifycode # dataset root dir
+train: images/train # train images (relative to 'path') 4 images
+val: images/val # val images (relative to 'path') 4 images
+test: # test images (optional)
+nc: 1
+# Classes
+names:
+  0: object
